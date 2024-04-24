@@ -1,0 +1,24 @@
+Our overall goal was to take a data set that was extremely large and to analyze that data by creating questions that were aimed to summarize the data while giving key insight about general baseball pitching information. With this goal we created 4 questions to give an overview of Justin Verlander's pitching in 2022
+
+Question 1: Calculate Verlander's mean speed for each type of pitch
+Results: (CH) - 86.21 Mph, (CU) - 79.14 Mph, (FF) - 95.07 Mph, (SL) - 87.48 Mph	
+Conclusion - Verlander's average speeds are right around the average pitch speeds for MLB pitchers which show his arm in generally average but precision is also key, not just speed.
+
+Question 2: Determine what generally happens the most, and the least, with each pitch type.
+Results: *Low Importance Plays Excluded* 
+CH-(1st Most: 33 Balls ,2nd Most: 12 Hit) (Least: 3 C-Strikes, 2nd Least: 8 Fouls)
+CU-(1st Most: 157 Balls ,2nd Most: 138 C-Strikes) (Least:48 S-Strikes, 2nd Least: 78 Hit)
+FF-(1st Most: 447 Balls ,2nd Most: 421 Fouls) (Least: 133 S-Strikes, 2nd Least: 276 Hit)
+SL-(1st Most: 256 Balls ,2nd Most: 154 Fouls) (Least: 102 C-Strike, 2nd Least: 142 Hit)
+Conclusion - What we can gain from this data is that the most frequent description of pitches is balls thrown and trailed by mostly fouls(usually strikes) as well as called strikes and a low amount of 12 hits. The average least description for every single pitch is some type of strike whether it is a swinging strike or called strike. From this information we can infer that Verlander will usually throw a more significant amount of balls over strikes which is not usually what you want from a pitcher.
+
+Question 3: Calculate the total pitch count per pitch type
+Results: CH - 65 thrown, CU - 560 thrown, FF - 1510 thrown, SL - 840 thrown
+Conclusion - As you can see from these results, Verlander favors throwing a fastball most of the time and will throw a curveball or slider somethings but will hardly ever throw changeups
+
+Question 4: See if there is a relationship between ball speed and what happens on the play
+*Low Importance Plays Excluded*
+Results: Ball:89.66Mph, C-Strike:87.94Mph, Foul:90.80Mph, Hit:90.55Mph, S-Strike:89.53Mph
+Conclusion - Based on this information we can conclude that pitch speed alone does not seem to affect what happens necessarily but other factors such as ball placement, ball movement, and batter skill are all things that go into what happens with each pitch.
+
+General Conclusion - 
